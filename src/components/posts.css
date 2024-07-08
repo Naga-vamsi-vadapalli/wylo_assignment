@@ -1,0 +1,19 @@
+.posts{
+    
+    padding: 20%;
+    border-radius: 10%;
+}
+.sticky-button {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    background-color: white; /* Optional: adds a background to the button area */
+  }
+  
+  .sticky-button button {
+    padding: 10px 20px;
+    font-size: 16px;
+  }
